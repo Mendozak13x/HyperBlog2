@@ -38,7 +38,10 @@ body{
 #container h1{
     font-size: 20px;
 }
-
+#footer{
+color: blue;
+}
 #post{
     padding: 1em;
 }
+
